@@ -2,7 +2,7 @@
 Udacity Self-Driving Car Challenge 2 score analysis:
 
 I made a little score program to test the correlation between human driving steering angle and machine detected steering angle.
-I broken down the trip into 1000 frame per section, I measure the pearsonr correlation coefficient for each sections and overall scores. 
+I break down the whole trip into 1000 frames per section, I measure the pearsonr correlation coefficient for each section and overall scores. 
 
 The interesting I found is:
 Team autumn lead most of the sections, except 3000:4000 and 4000:5000. 
