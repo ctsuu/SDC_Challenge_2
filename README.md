@@ -5,8 +5,10 @@ I made a little score program to test the correlation between human driving stee
 I broken down the trip into 1000 frame per section, I measure the pearsonr correlation coefficient for each sections and overall scores. 
 
 The interesting I found is:
-Team autumn almost lead all the sections, except 3000:4000 and 4000:5000 section. 
+Team autumn lead most of the sections, except 3000:4000 and 4000:5000. 
 Team rambo has some issue at 5000: end section. 
+
+Overall result is same order as posted. 
 
 I hope there are more submissions available, so we can do more analysis.
 
